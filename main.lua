@@ -13,6 +13,32 @@ AltTexture({ -- Thoth Tarot
     path = 'Tarots-Thoth.png', -- path of sprites
     loc_txt = { -- loc text name (NYI)
         name = 'Thoth'
+    },
+    localization = {
+        c_magician = {
+            name = "The Magus"
+        },
+        c_high_priestess = {
+            name = "The Priestess"
+        },
+        c_justice = {
+            name = "Adjustment"
+        },
+        c_wheel_of_fortune = {
+            name = "Fortune"
+        },
+        c_strength = {
+            name = "Lust"
+        },
+        c_temperance = {
+            name = "Art"
+        },
+        c_judgement = {
+            name = "The Æon"
+        },
+        c_world = {
+            name = "The Universe"
+        },
     }
 })
 TexturePack{ -- Thoth Tarot
